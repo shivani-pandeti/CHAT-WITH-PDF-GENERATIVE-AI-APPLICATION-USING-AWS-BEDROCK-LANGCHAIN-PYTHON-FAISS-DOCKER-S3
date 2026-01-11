@@ -20,19 +20,6 @@ This design prevents unauthorized uploads, ensures consistent knowledge sources,
 
 This ensures responses are **fact-based and document-grounded**, minimizing hallucinations.
 
-## 🗂️ Project Structure
-chat-with-pdf/
-
-│
-
-├── admin/ # Admin Streamlit app (PDF upload + index creation)
-
-├── user/ # User Streamlit app (question answering)
-
-├── .env.example # Environment variable template
-
-└── README.md
-
 ## ⚙️ Key Features
 
 ### 🔐 Role-Based Access Control
