@@ -1,0 +1,1 @@
+**Admin Interface that uploads the PDF, extracts the text, generates embeddings, and creates a FAISS vector index stored in Amazon S3**
