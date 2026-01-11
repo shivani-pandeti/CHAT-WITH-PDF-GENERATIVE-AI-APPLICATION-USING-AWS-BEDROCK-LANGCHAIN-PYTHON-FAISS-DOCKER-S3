@@ -1,0 +1,1 @@
+User Interface that loads this index, runs similarity search using FAISS, and sends the retrieved text to Claude for answer generation.
